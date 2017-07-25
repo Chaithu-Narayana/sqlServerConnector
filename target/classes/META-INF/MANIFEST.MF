@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: sqlServerConnector
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jayasree
+Implementation-Vendor-Id: com.exam.portal
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/sqlServerCon
+ nector/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.chaithu.sqlserver.connector.Application
+
